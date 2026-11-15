@@ -6,3 +6,6 @@ Môn học: Hệ thống SCADA và PLC-HMI.
 + Xây dựng phương án kết nối và trao đổi dữ liệu giữa PLC và hệ thống SCADA thông qua truyền thông PROFINET.
 + Tìm hiểu phương án giám sát các thông số vận hành như nhiệt độ, áp suất, mức nguyên liệu và điều khiển các thiết bị trong dây chuyền.
 + Tính toán, lựa chọn công suất động cơ, máy bơm, biến tần và thiết bị điện phù hợp với yêu cầu hệ thống.
++ Xây dựng chương trình điều khiển PLC Siemens S7-1200 bằng ngôn ngữ Ladder, triển khai các chế độ AUTO, MANUAL và mô phỏng hoạt động hệ thống.
++ Thiết kế giao diện SCADA trên WinCC, xây dựng màn hình giám sát quy trình, cài đặt thông số, phân quyền người dùng và theo dõi trạng thái thiết bị.
++ Tích hợp lưu trữ dữ liệu vận hành vào SQL Server, xây dựng biểu đồ Trend để theo dõi và giám sát các thông số sản xuất.
