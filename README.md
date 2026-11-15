@@ -1,5 +1,5 @@
 Môn học: Hệ thống SCADA và PLC-HMI.
-- Công nghệ sử dụng: Siemens S7-1200 (CPU 1215C), WinCC Professional, PROFINET.
+- Công nghệ sử dụng: Siemens S7-1200 (CPU 1215C), PROFINET.
 - Mô tả công việc:
 + Nghiên cứu và phân tích quy trình công nghệ dây chuyền sản xuất nước giải khát, xác định các yêu cầu giám sát và điều khiển tự động.
 + Nghiên cứu và lựa chọn các thiết bị đo lường, cảm biến công nghiệp như cảm biến nhiệt độ PT100, cảm biến áp suất, cảm biến mức Radar và Loadcell.
